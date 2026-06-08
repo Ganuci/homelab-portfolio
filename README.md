@@ -10,6 +10,8 @@ The purpose of this lab is to create a hands-on environment where I can configur
 
 - [TrueNAS NAS Build](projects/truenas-nas-build.md)
 - [VLAN and IoT Network Segmentation](projects/vlan-iot-segmentation.md)
+- [Cisco CCNA Switching Lab](projects/cisco-ccna-switching-lab.md)
+
 
 ## Current Environment
 
