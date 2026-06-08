@@ -11,6 +11,10 @@ The purpose of this lab is to create a hands-on environment where I can configur
 - [TrueNAS NAS Build](projects/truenas-nas-build.md)
 - [VLAN and IoT Network Segmentation](projects/vlan-iot-segmentation.md)
 - [Cisco CCNA Switching Lab](projects/cisco-ccna-switching-lab.md)
+- [Plex Media Server](projects/plex-media-server.md)
+- [Pi-hole DNS Filtering](projects/pi-hole-dns.md)
+- [Uptime Kuma Monitoring](projects/uptime-kuma-monitoring.md)
+
 
 
 ## Current Environment
