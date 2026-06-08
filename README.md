@@ -20,7 +20,7 @@ The purpose of this lab is to create a hands-on environment where I can configur
 | [TrueNAS NAS Build](projects/truenas-nas-build.md) | Lenovo M720Q | TrueNAS storage server |
 | Media | Lenovo M720Q | Plex and media applications |
 | Admin | Lenovo M920X | Services, monitoring and administration |
-| Download | Lenovo M700 | VPN and download workflow |
+| Download/VPN | Lenovo M700 | VPN and download workflow |
 | Monitoring / Kiosk | Raspberry Pi 5 | Monitoring display and dashboard use |
 | DNS | Raspberry Pi 4 | Pi-hole DNS filtering |
 | Enterprise Lab | Dell PowerEdge R710 / Dell SC1435 / Cisco 3560 switches | Testing, hardware learning and CCNA practice |
