@@ -17,7 +17,7 @@ The purpose of this lab is to create a hands-on environment where I can configur
 
 | Role | Hardware | Purpose |
 |---|---|---|
-| NAS | Lenovo M720Q | TrueNAS storage server |
+| [TrueNAS NAS Build](projects/truenas-nas-build.md) | Lenovo M720Q | TrueNAS storage server |
 | Media | Lenovo M720Q | Plex and media applications |
 | Admin | Lenovo M920X | Services, monitoring and administration |
 | Download | Lenovo M700 | VPN and download workflow |
