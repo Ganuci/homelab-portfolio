@@ -1,8 +1,15 @@
 # Homelab Infrastructure Portfolio
 
+
 This repository documents my personal homelab, built to develop practical skills in IT support, infrastructure, networking, storage, virtualisation, monitoring and self-hosted services.
 
 The purpose of this lab is to create a hands-on environment where I can configure real systems, troubleshoot technical issues, document changes and build confidence with technologies used in IT support and junior infrastructure roles.
+
+---
+## Projects
+
+- [TrueNAS NAS Build](projects/truenas-nas-build.md)
+- [VLAN and IoT Network Segmentation](projects/vlan-iot-segmentation.md)
 
 ## Current Environment
 
